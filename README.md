@@ -16,4 +16,4 @@ geopy<br>
 pandas<br>
 folium<br>
   
-  ![Map]https://github.com/deepakkapse/corona_analysis/blob/master/covidpic/v1.png
+  ![Map](https://github.com/deepakkapse/corona_analysis/blob/master/covidpic/v1.png)
