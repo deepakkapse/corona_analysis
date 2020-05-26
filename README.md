@@ -15,3 +15,5 @@ numpy<br>
 geopy<br>
 pandas<br>
 folium<br>
+  
+  !=v2.png
