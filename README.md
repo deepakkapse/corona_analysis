@@ -11,9 +11,9 @@ finalcopy-Copy1.csv file is imported to get datavisualisation part
 
 
 <b>libraries used:<b><br>
-numpy<br>
-geopy<br>
-pandas<br>
-folium<br>
+👉numpy<br>
+👉geopy<br>
+👉pandas<br>
+👉folium<br>
   
   ![Map](https://github.com/deepakkapse/corona_analysis/blob/master/covidpic/v1.png)
